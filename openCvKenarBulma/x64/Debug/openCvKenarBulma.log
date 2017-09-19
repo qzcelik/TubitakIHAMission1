@@ -1,0 +1,9 @@
+﻿  openCvKenarBulma.cpp
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(29): warning C4101: 'sutun': unreferenced local variable
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(29): warning C4101: 'satir': unreferenced local variable
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(580): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(581): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(583): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\opencvkenarbulma\opencvkenarbulma\opencvkenarbulma.cpp(593): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  openCvKenarBulma.vcxproj -> C:\Users\Acer\Documents\Visual Studio 2015\Projects\openCvKenarBulma\x64\Debug\openCvKenarBulma.exe
+  openCvKenarBulma.vcxproj -> C:\Users\Acer\Documents\Visual Studio 2015\Projects\openCvKenarBulma\x64\Debug\openCvKenarBulma.pdb (Full PDB)
